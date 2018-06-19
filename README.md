@@ -12,8 +12,8 @@ The project deals with two major analysis :
 - https://github.com/justinpolackal/eda-automobiles/blob/master/PriceAndCarSpecs_Analysis.ipynb
 
 **References:**
--1. US Insurance Institute for Highway Safety | Highway Loss Data Institute - classification of cars based on vehicle size and weight: http://www.iihs.org/iihs/topics/t/vehicle-size-and-weight/fatalityfacts/passenger-vehicles
--2. Car body styles http://www.nadaguides.com/Cars/Body-styles
--3. Seaborn statistical data visualization: https://seaborn.pydata.org/
--4. OHV, OHC, SOHC and DOHC (twin cam) engine design: https://www.samarins.com/glossary/dohc.html
--5. UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/automobile
+- US Insurance Institute for Highway Safety | Highway Loss Data Institute - [classification of cars based on vehicle size and weight](http://www.iihs.org/iihs/topics/t/vehicle-size-and-weight/fatalityfacts/passenger-vehicles)
+- [Car body styles](http://www.nadaguides.com/Cars/Body-styles)
+- [Seaborn statistical data visualization](https://seaborn.pydata.org/)
+- [OHV, OHC, SOHC and DOHC (twin cam) engine design](https://www.samarins.com/glossary/dohc.html)
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/automobile)
